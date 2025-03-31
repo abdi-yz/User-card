@@ -5,4 +5,5 @@ This is a simple React project built using Vite to demonstrate the use of props.
 ✅ Email
 ✅ Age
 ✅ Custom background color (optional)
+# UI Preview
 ![UserCard Screenshot](public/screenshot.png)
